@@ -419,7 +419,8 @@
 				"Set de RV",
 				"Ropa interior de vtuber",
 				"War Helm",
-				"Capucha Aprueba de Agua"
+				"Capucha Aprueba de Agua",
+				"Casco de soldador"
 			]
 		},
 		"UPPER_ARMOR": {
@@ -610,7 +611,8 @@
 				"Walter Top",
 				"We <3 Dex T-Shirt",
 				"Windbreaker",
-				"Winter Jacket"
+				"Winter Jacket",
+				"Camisola de fibra de carbono"
 			]
 		},
 		"LOWER_ARMOR": {
@@ -733,7 +735,8 @@
 				"Undies",
 				"Viva El Cyber Pants",
 				"Void Pants",
-				"Pantalones de yoga"
+				"Pantalones de yoga",
+				"Pantalones de fibra de carbono"
 			]
 		},
 		"BOOTS": {
@@ -838,6 +841,7 @@
 				"Wellington Boots",
 				"Work Boots",
 				"Yeezys"
+				"Bio-Botas Revestidas de Fibra de Carbono"
 			]
 		}
 	},
@@ -1186,7 +1190,8 @@
 			"X998 Scientist",
 			"Yo-Yo master",
 			"Zealot",
-			"Zonies"
+			"Zonies",
+			"Patito Juan"
 		],
 		"BOSS_NAMES": [
 			"42069 Nice Guy",
@@ -1591,7 +1596,8 @@
 			"Xulle Noelle",
 			"Yandere Senpai",
 			"Your Reflection",
-			"Zapper Trapper Blaster"
+			"Zapper Trapper Blaster",
+			"Patrón Explotador de Laboral"
 		]
 	}
 }
